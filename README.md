@@ -45,7 +45,7 @@ This will show you if everything is compiling correctly; if otherwise you be wil
 
 #### Dont forget that in order to push any changes you need to add your own GitHub repo. to your project.
 ```
-git remote add origin https://github.com/calliestump/ping-pong
+git remote add origin [repo link]
 ```
 #### Note: Do this is your main parent directory. You do not want to have git initialized in any other places.
 
